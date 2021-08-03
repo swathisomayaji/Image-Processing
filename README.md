@@ -21,7 +21,7 @@ Background
 
 Result
 
-![alt text](https://drive.google.com/file/d/1rQor9uybjZo\_kT9qYcqn-eB5-M0O7Xjl/view?usp=sharing)
+![alt text](https://github.com/swathisomayaji/Image-Processing/blob/main/Results/Successful/img_result1.jpg)
 
 ## Algorithms
 
