@@ -13,7 +13,7 @@ background images, which means while cutting the threat objects, the boundary of
 
 Threat Item
 
-![alt text](https://drive.google.com/file/d/1YsMj3jLTM4Z61D-EKOBgj6YdHuXgkCW\_/view?usp=sharing)
+![alt text](https://github.com/swathisomayaji/Image-Processing/blob/main/threat_images/BAGGAGE_20170522_113049_80428_A.jpg)
 
 Background
 
