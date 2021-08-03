@@ -17,7 +17,7 @@ Threat Item
 
 Background
 
-![alt text](https://drive.google.com/file/d/1WzW9D8R8xO4Q-i5Gnc1pI4tsy\_XJhGEz/view?usp=sharing)
+![alt text](https://github.com/swathisomayaji/Image-Processing/blob/main/background_images/BAGGAGE_20180811_175323_83216_B_1.jpg)
 
 Result
 
